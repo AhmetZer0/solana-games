@@ -50,8 +50,8 @@ function GenerateNFT() {
       share: 100,
     });
     const metadata = {
-      name: `TEST_NFT`,
-      symbol: 'MNFT',
+      name: `Zer0 NFT`,
+      symbol: 'Zer0',
       creators: [selfCreator],
       description: '',
       sellerFeeBasisPoints: 0,
